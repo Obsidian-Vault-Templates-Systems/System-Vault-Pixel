@@ -48,7 +48,8 @@
     "//03 Inner World/03 Inner World/Residents",
     "//99 Meta",
     "//03 Inner World",
-    "//99 Meta/99 Meta/Templates"
+    "//99 Meta/99 Meta/Templates",
+    "//04 Timeline"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
