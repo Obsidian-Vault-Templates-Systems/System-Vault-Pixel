@@ -1,0 +1,82 @@
+{
+  "fonts": [
+    {
+      "id": "fusion-pixel-10px-monospaced-sc",
+      "family": "Fusion Pixel 10px Monospaced SC",
+      "subsets": [
+        "latin"
+      ],
+      "styles": [
+        "normal"
+      ],
+      "weights": [
+        400
+      ],
+      "isActive": true
+    },
+    {
+      "id": "pixelify-sans",
+      "family": "Pixelify Sans",
+      "subsets": [
+        "cyrillic",
+        "latin",
+        "latin-ext"
+      ],
+      "styles": [
+        "normal"
+      ],
+      "weights": [
+        400,
+        500,
+        600,
+        700
+      ],
+      "variable": {
+        "wght": {
+          "default": "400",
+          "min": "400",
+          "max": "700",
+          "step": "1"
+        }
+      },
+      "isActive": true
+    },
+    {
+      "id": "vt323",
+      "family": "VT323",
+      "subsets": [
+        "latin",
+        "latin-ext",
+        "vietnamese"
+      ],
+      "styles": [
+        "normal"
+      ],
+      "weights": [
+        400
+      ],
+      "isActive": true
+    }
+  ],
+  "interfaceFonts": [
+    {
+      "id": "fusion-pixel-10px-monospaced-sc",
+      "family": "Fusion Pixel 10px Monospaced SC",
+      "precedence": 0
+    }
+  ],
+  "textFonts": [
+    {
+      "id": "fusion-pixel-10px-monospaced-sc",
+      "family": "Fusion Pixel 10px Monospaced SC",
+      "precedence": 0
+    }
+  ],
+  "monospaceFonts": [
+    {
+      "id": "fusion-pixel-10px-monospaced-sc",
+      "family": "Fusion Pixel 10px Monospaced SC",
+      "precedence": 0
+    }
+  ]
+}

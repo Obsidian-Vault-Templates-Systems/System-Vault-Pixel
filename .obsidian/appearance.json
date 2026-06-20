@@ -1,0 +1,16 @@
+{
+  "baseFontSize": 12,
+  "baseFontSizeAction": true,
+  "cssTheme": "ITS Theme",
+  "accentColor": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "pixel-headings",
+    "S - Callouts",
+    "S - Checkboxes",
+    "S - Embed Adjustments",
+    "S - Dataview Cards",
+    "S - Encoded Fonts",
+    "S - Images Adjustments"
+  ]
+}

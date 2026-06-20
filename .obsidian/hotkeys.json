@@ -1,0 +1,11 @@
+{
+  "make-md:mk-blink": [],
+  "make-md:mk-new-space": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ]
+}

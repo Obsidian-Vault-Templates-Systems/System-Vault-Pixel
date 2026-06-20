@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "c9421ead0ccf0208",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d56c8ba83a6f00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5000773d9b24c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 Meta/Templates/Reset Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reset Template"
+            }
+          },
+          {
+            "id": "c20dcf1c9f95baa9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3b05fbe3d53eda0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9cf2faeeda01a1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d434714560785789",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "379786cfc483d9c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "837218bb319343bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "8e735a7a1268541f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "819c2ed67ddb839d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d81d83514d328fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "552918fef98704b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "3ab944878eb9b7fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "faef7c43fd7b77c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa201b69b39bbfe4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f593231e496c7258",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "a38f26282e636145",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "iconic:Open rulebook": false,
+      "calendarium:Open Calendarium": false,
+      "css-editor:Open CSS editor quick switcher": false
+    }
+  },
+  "active": "9c5000773d9b24c0",
+  "lastOpenFiles": [
+    "99 Meta/Templates/Condition Template.md",
+    "99 Meta/Templates/Medication Template.md",
+    "99 Meta/Templates/Event Template.md",
+    "99 Meta/Templates/Memory Template.md",
+    "99 Meta/Templates/Person Template.md",
+    "99 Meta/Templates/Location Template.md",
+    "99 Meta/Templates/Alter Template.md",
+    "99 Meta/Templates/System Template.md",
+    "99 Meta/Attachments/System Graphics/Default Item Trash Can.png",
+    "99 Meta/Attachments/System Graphics/Default Item Cat.png",
+    "99 Meta/Attachments/System Graphics/Default Item Money.png",
+    "99 Meta/Attachments/System Graphics/Default Item Ice Cream.png",
+    "99 Meta/Attachments/System Graphics/Default Item.png",
+    "Vault.md",
+    "Untitled.md",
+    "99 Meta/Attachments/System Graphics/Default Banner.png",
+    "99 Meta/Attachments/System Graphics/Default Image Alter.png",
+    "99 Meta/Templates/Reset Template.md",
+    "99 Meta/Templates/Templates.md",
+    "99 Meta/99 Meta.md",
+    "12 System Resets/12 System Resets.md",
+    "11 Dataview/11 Dataview.md",
+    "10 Archives/Retired Notes/Retired Notes.md",
+    "10 Archives/Retired Notes",
+    "10 Archives/Historical Snapshots/Historical Snapshots.md",
+    "10 Archives/Historical Snapshots",
+    "10 Archives/Past Structures/Past Structures.md",
+    "10 Archives/Past Structures",
+    "10 Archives/Old Alter Versions/Old Alter Versions.md",
+    "10 Archives/Old Alter Versions",
+    "10 Archives/10 Archives.md",
+    "09 Research/Trauma/Trauma.md",
+    "09 Research/Trauma",
+    "09 Research/Psychology/Psychology.md",
+    "09 Research/Psychology",
+    "09 Research/Resources/Resources.md",
+    "09 Research/Resources",
+    "09 Research/Biotech/Biotech.md",
+    "09 Research/Biotech",
+    "09 Research/Plurality/Plurality.md",
+    "09 Research/Plurality",
+    "08 Communication/System Meetings"
+  ]
+}
