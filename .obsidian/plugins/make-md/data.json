@@ -45,7 +45,9 @@
     "//400_Health & Vitality",
     "//500_Relationships",
     "//900_System Files",
-    "//03 Inner World/03 Inner World/Residents"
+    "//03 Inner World/03 Inner World/Residents",
+    "//99 Meta",
+    "//03 Inner World"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
