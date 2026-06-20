@@ -47,7 +47,8 @@
     "//900_System Files",
     "//03 Inner World/03 Inner World/Residents",
     "//99 Meta",
-    "//03 Inner World"
+    "//03 Inner World",
+    "//99 Meta/99 Meta/Templates"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
