@@ -1,24 +1,24 @@
 ---
-type: location  
-name:  
-category:  
-parent_location:  
-region:  
-system:  
-status:  
-accessibility:  
-created:  
+type: location
+name:
+category:
+parent_location:
+region:
+system:
+status:
+accessibility:
+created:
 tags:
-   - location  
+  - location
 aliases: []
-    
+banner: "[[Default Banner.png]]"
 ---
 
 > [!infobox|n-th]
 > 
 > # {{title}}
 > 
-> ![[placeholder-location-image.png]]
+> ![[Default Item Ice Cream.png]]
 > 
 > #### Location Info
 > 

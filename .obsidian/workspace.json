@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64d56c8ba83a6f00",
+        "id": "099591725870d248",
         "type": "tabs",
         "children": [
           {
-            "id": "9c5000773d9b24c0",
+            "id": "f2a66bc12b675806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "99 Meta/Templates/Location Template.md",
-                "mode": "source",
-                "source": false
+                "path": "99 Meta/Definitions/Headspace Terms"
               },
               "icon": "lucide-file",
-              "title": "Location Template"
-            }
-          },
-          {
-            "id": "c20dcf1c9f95baa9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Headspace Terms"
             }
           }
         ]
@@ -99,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 296.5
   },
   "right": {
     "id": "819c2ed67ddb839d",
@@ -221,49 +209,49 @@
       "css-editor:Open CSS editor quick switcher": false
     }
   },
-  "active": "9c5000773d9b24c0",
+  "active": "f2a66bc12b675806",
   "lastOpenFiles": [
-    "03 Inner World/Master Timeline.md",
-    "99 Meta/Templates/Location Template.md",
+    "99 Meta/Definitions/Headspace Terms/Headspace Terms.md",
+    "99 Meta/Definitions/Subsystem Types/Untitled.md",
+    "99 Meta/Definitions/Subsystem Types/Subsystem Types.md",
+    "99 Meta/Definitions/Definitions.md",
+    "06 Relationships/Family/Dad.md",
+    "99 Meta/Definitions/DID Concepts/Def Note 1.md",
+    "09 Research/Plurality/Form.md",
+    "99 Meta/Definitions/DID Concepts/DID Concepts.md",
+    "99 Meta/Definitions/Terms/Terms.md",
+    "99 Meta/Definitions/Roles/Roles.md",
+    "99 Meta/Definitions/Tags/Tags.md",
+    "99 Meta/Definitions/Origins/Origins.md",
     "99 Meta/Templates/Reset Template.md",
     "99 Meta/Templates/Condition Template.md",
     "99 Meta/Templates/Medication Template.md",
     "99 Meta/Templates/Event Template.md",
     "99 Meta/Templates/Memory Template.md",
     "99 Meta/Templates/Person Template.md",
-    "99 Meta/Templates/Alter Template.md",
+    "99 Meta/Templates/Location Template.md",
     "99 Meta/Templates/System Template.md",
+    "99 Meta/Templates/Alter Template.md",
+    "99 Meta/Templates/Templates.md",
+    "07 Health/Conditions/Conditions.md",
+    "08 Communication/Announcements/Announcements.md",
+    "09 Research/Plurality/Plurality.md",
+    "10 Archives/Old Alter Versions/Old Alter Versions.md",
     "99 Meta/Attachments/System Graphics/Default Item Trash Can.png",
     "99 Meta/Attachments/System Graphics/Default Item Cat.png",
     "99 Meta/Attachments/System Graphics/Default Item Money.png",
     "99 Meta/Attachments/System Graphics/Default Item Ice Cream.png",
     "99 Meta/Attachments/System Graphics/Default Item.png",
-    "Vault.md",
-    "Untitled.md",
     "99 Meta/Attachments/System Graphics/Default Banner.png",
     "99 Meta/Attachments/System Graphics/Default Image Alter.png",
-    "99 Meta/Templates/Templates.md",
-    "99 Meta/99 Meta.md",
-    "12 System Resets/12 System Resets.md",
-    "11 Dataview/11 Dataview.md",
-    "10 Archives/Retired Notes/Retired Notes.md",
     "10 Archives/Retired Notes",
-    "10 Archives/Historical Snapshots/Historical Snapshots.md",
     "10 Archives/Historical Snapshots",
-    "10 Archives/Past Structures/Past Structures.md",
     "10 Archives/Past Structures",
-    "10 Archives/Old Alter Versions/Old Alter Versions.md",
     "10 Archives/Old Alter Versions",
-    "10 Archives/10 Archives.md",
-    "09 Research/Trauma/Trauma.md",
     "09 Research/Trauma",
-    "09 Research/Psychology/Psychology.md",
     "09 Research/Psychology",
-    "09 Research/Resources/Resources.md",
     "09 Research/Resources",
-    "09 Research/Biotech/Biotech.md",
     "09 Research/Biotech",
-    "09 Research/Plurality/Plurality.md",
     "09 Research/Plurality",
     "08 Communication/System Meetings"
   ]

@@ -9,7 +9,7 @@
       "dash": true,
       "underscore": false
     },
-    "autoPlurals": false
+    "autoPlurals": true
   },
   "defPopoverConfig": {
     "displayAliases": true,
